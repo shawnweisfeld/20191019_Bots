@@ -1,5 +1,6 @@
 ---
 home: "../"
+next: "../chapter02"
 ---
 
 ## Chapter 1 - Introduction to Bots
