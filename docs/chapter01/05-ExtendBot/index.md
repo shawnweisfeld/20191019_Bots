@@ -1,7 +1,7 @@
 ---
 back: "../04-OOBExploration"
 home: "../"
-next: "../06-SimpleChoices"
+next: "../06-Choices"
 ---
 
 ## How do I make my bot understand?
@@ -43,4 +43,4 @@ Our bot only knows how to do the things we tell it to do. If we want it to do so
 
 1. Let's ask our bot "what you name"? What happens? Why?
 2. Let's ask our bot "name"? What happens? Why?
-3. Let's ask our bot "tell my your name"? What happens? Why? Can you fix it?
+3. Let's ask our bot "tell me your name"? What happens? Why? Can you fix it?

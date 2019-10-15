@@ -10,5 +10,4 @@ next: "../chapter02"
 1. [How do we setup a bot?](./03-BotSetup)
 1. [What can my bot do?](./04-OOBExploration)
 1. [How do I make it understand?](./05-ExtendBot)
-1. [How does my bot make simple choices?](./06-SimpleChoices)
-1. [How does my bot make complex choices?](./07-ComplexChoices)
+1. [How does my bot make choices?](./06-Choices)
