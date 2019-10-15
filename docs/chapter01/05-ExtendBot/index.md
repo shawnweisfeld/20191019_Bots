@@ -6,19 +6,17 @@ next: "../06-SimpleChoices"
 
 ## How do I make my bot understand?
 
+Our bot only knows how to do the things we tell it to do. If we want it to do something new we will need to tell it how to do it.
 
-- The bot only knows how to do the things we tell it to do.
-- If we want it to do something new we will need to show it how to do it.
-
-1. Start with a freshly reset bot
+1. Start with a freshly reset bot. (i.e. press the "start over with latest content" button)
    ![Open Browser](./images/EB01.png)
-1. Type in "who are you"
+1. Type in "what is your name"
     ![Open Browser](./images/EB01.png)
 1. Hit Enter or click Send
     ![Open Browser](./images/EB02.png)
-2. The bot responds but that did not tell us the name of the bot! It looks like it is asking us to give it more information.
+1. The bot responds but it apparently doesnt know its own name! 
     ![Open Browser](./images/EB03.png)
-3. Let's make it smarter!  Click on Topics on the left.
+1. Let's make it smarter!  Click on Topics on the left.
     ![Open Browser](./images/EB04.png)
 1. Click Hide Bot to give us some room to work.
     ![Open Browser](./images/EB05.png)
@@ -28,37 +26,21 @@ next: "../06-SimpleChoices"
     ![Open Browser](./images/EB07.png)
 1. Since we want the bot to tell us its name let's put that into the Description box.
     ![Open Browser](./images/EB08.png)
-1. What shoud we use as a trigger phrase to get the bot to start telling us its name?  I'll use "who are you"
+1. What shoud we use as a trigger phrase to get the bot to start telling us its name?  I'll use "what is your name". Then Click Add to add it to the list of trigger phrases.
     ![Open Browser](./images/EB09.png)
-1. Click Add to add it to the list of trigger phrases. 
-    ![Open Browser](./images/EB10.png)
-1.  Now that we have a way to start the topic, click the Edit button under the conversation.
+1.  Now that we have a way to start the topic, click the "Go to authoring canvas" button.
     ![Open Browser](./images/EB11.png)
-1. The bot shows us our trigger phrase and then already loaded a conversation step to say something to the user.  Type in "My name is TestBot"
+1. The bot shows us our trigger phrase and then "Bot Says" step to say something to the user.  Type in "My name is TestBot" (or whatever you named your bot), and then press "Save".
     ![Open Browser](./images/EB12.png)
-1. All we wanted the bot to do was to tell us its name so let's click Save.
-    ![Open Browser](./images/EB13.png)
-1. OK. Time to test!  Click "Test your bot" in the bottom left corner
+1. OK. Time to test!  Click "Test your bot" in the bottom left corner, then "start over with latest conent"
     ![Open Browser](./images/EB14.png)
-1. Type in "who are you"
-    ![Open Browser](./images/EB15.png)
-1. Hit enter or click Send
+1. Type in "what is your name", Hit enter or click Send
     ![Open Browser](./images/EB16.png)
-1. Looks like the bot still doesn't seem to know what we want to do.  What could the problem be?
-  - We never told it that it should use the new information! Click "Start over with latest content"
-    ![Open Browser](./images/EB17.png)
-1. Type in "who are you"
-    ![Open Browser](./images/EB18.png)
-1. Hit enter or click Send
-    ![Open Browser](./images/EB19.png)
 1. Congratulations!!!  You just made your bot smarter!
 
 
-Since we know the bot will ONLY do what we have told it to do, it needs more of our help to make it smarter.  
+## Is our bot Smart?
 
-Here are a few things you can try to do to help your bot!
-- Change the Greeting topic to tell you today's date and say Hello!
-- Add some more ways for the bot to tell you its name
-- After telling you its name have the bot "Go to" the Greeting topic.
-
-Once you have tried a few of these we'll talk about how you did!
+1. Let's ask our bot "what you name"? What happens? Why?
+2. Let's ask our bot "name"? What happens? Why?
+3. Let's ask our bot "tell my your name"? What happens? Why? Can you fix it?
