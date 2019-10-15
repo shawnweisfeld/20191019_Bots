@@ -18,7 +18,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![New Bot](./img/mlbot01.png)
 
-3. You will now asked to name your bot and tell it what environment it will live in. Let's name our bot "Mad Libs Bot" and put it in the "Developer Environment", and then press the "Create" button. It will take a few minutes for your bot to be created.
+3. You will now asked to name your bot and tell it what environment it will live in. Let's name our bot "Mad Libs Bot" and put it in your environment (i.e. Student 00 Environment), and then press the "Create" button. It will take a few minutes for your bot to be created.
    
     > NOTE: that you have to press the options drop down to set the environment. 
 
@@ -37,7 +37,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
    4. "ml"
    5. "game time"
 
-7. It should look like this, then press the conversation "edit" button
+7. It should look like this, then press the "go to Authoring canvas" button
 
     ![Create greeting topic](./img/mlbot04.png)
 
@@ -65,11 +65,11 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![new topic close](./img/mlbot09.png)
 
-13. Enter the Name of this topic "Mad Libs Close" and give it a description "This topic will end the Mad Libs Game". This topic will not have any triggers, so you can press "edit" to sart adding the conversation. 
+13. Enter the Name of this topic "Mad Libs Close" and give it a description "This topic will end the Mad Libs Game". This topic will not have any triggers, so you can press "go to authoring canvas" to sart adding the conversation. 
 
     ![close topic title](./img/mlbot10.png)
 
-14. The bot will now thank the user for playing and ask them if they want to play again. Add a bot says with the following text "Thank you for playing my game! Would you like to play again?"
+14. The bot will now thank the user for playing and ask them if they want to play again. Add to the existing bot says the following text "Thank you for playing my game! Would you like to play again?"
 
 15. The user response will be either "Yes" and "No", add these to the bot designer. Your topic should look like this now. 
 
@@ -85,7 +85,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![new topic close](./img/mlbot09.png)
 
-19. The title for our topic will be "Story 1" and the description will be "this topic will show the user the first story". Like the close topic, this topic will not have any trigger phrases, so you can just start editing the conversation. 
+19. The title for our topic will be "Story 1" and the description will be "this topic will show the user the first story". Like the close topic, this topic will not have any trigger phrases, so you can just start authoring the conversation. 
 
     ![new topic close](./img/mlbot13.png)
 
@@ -139,7 +139,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![story](./img/mlbot22.png)
 
-29. The last step is to connect our "story 1" topic to the "mad libs Greeting" topic. Click on "topics" on the left, then press the pencil on the "mad libs Greeting" topic. 
+29. The last step is to connect our "story 1" topic to the "mad libs Greeting" topic. Click on "topics" on the left, then press the flow chart button on the "mad libs Greeting" topic. 
 
     ![update open](./img/mlbot23.png)
 
