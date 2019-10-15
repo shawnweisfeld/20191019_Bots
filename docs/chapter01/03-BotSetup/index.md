@@ -27,7 +27,7 @@ Click the down arrow next to "More options"
 
 ![Open Browser](./images/BS16.png) 
 
-Change the environment to your environment (i.e. Student 00's Envrionment).
+Change the environment to your environment (i.e. Student 00's Environment).
 
 ![Open Browser](./images/BS17.png) 
 

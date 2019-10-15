@@ -30,7 +30,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
 5. Now we are ready to create our first topic. The purpose of this topic is to start the "Mad Libs" game. Press the new topic button. Set the title to "Mad Libs Greeting", and the description to "This topic will start the Mad Libs Game". 
    
-6. Our topic will need 5 trigger phrases. Add the follwing:
+6. Our topic will need 5 trigger phrases. Add the following:
    1. "Start the Game"
    2. "I want to play a game"
    3. "Mad Libs game"
@@ -55,7 +55,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
 10. However, Lets add a "fallback" option if our user enters a response that we are not expecting. If you put your mouse over the line connecting the "user responses" to the "users says" you should see a little "plus sign" clicking on it will provide you a menu to add a "fallback"
 
-    ![Greting fallback create](./img/mlbot07.png)
+    ![Greeting fallback create](./img/mlbot07.png)
 
 11. In the fallback branch (i.e. the one that says "none of these user responses") add a bot says with the following text "I don't have that one, please try again.". It should look like this. And then save your changes using the button in the upper right. 
 
@@ -89,7 +89,7 @@ Now that you have see the Mad Libs bot in action, let's build it!
 
     ![new topic close](./img/mlbot13.png)
 
-    Rembember that our first story looks like this.
+    Remember that our first story looks like this.
     ![Mad Libs Example](./img/ml01.png)
 
 20. So our bot needs to ask our user for the exclamation value to fill in the first blank. In the Bot Says box enter "Question 1: Tell me an exclamation?".

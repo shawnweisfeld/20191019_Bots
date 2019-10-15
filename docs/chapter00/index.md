@@ -4,7 +4,7 @@ home: "../"
 
 ## Unit Setup
 
-In this unit we are using the Bot tools from Microsoft for the students to build their bots. Each student will need an Azure Active Directory (AAD) account to access these tools. You will need to work with the AAD adminstrator to get accounts provisioned for your students. 
+In this unit we are using the Bot tools from Microsoft for the students to build their bots. Each student will need an Azure Active Directory (AAD) account to access these tools. You will need to work with the AAD administrator to get accounts provisioned for your students. 
 
 
 ### Instructions to create a student account in AAD

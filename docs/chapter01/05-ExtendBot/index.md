@@ -26,13 +26,13 @@ Our bot only knows how to do the things we tell it to do. If we want it to do so
     ![Open Browser](./images/EB07.png)
 1. Since we want the bot to tell us its name let's put that into the Description box.
     ![Open Browser](./images/EB08.png)
-1. What shoud we use as a trigger phrase to get the bot to start telling us its name?  I'll use "what is your name". Then Click Add to add it to the list of trigger phrases.
+1. What should we use as a trigger phrase to get the bot to start telling us its name?  I'll use "what is your name". Then Click Add to add it to the list of trigger phrases.
     ![Open Browser](./images/EB09.png)
 1.  Now that we have a way to start the topic, click the "Go to authoring canvas" button.
     ![Open Browser](./images/EB11.png)
 1. The bot shows us our trigger phrase and then "Bot Says" step to say something to the user.  Type in "My name is TestBot" (or whatever you named your bot), and then press "Save".
     ![Open Browser](./images/EB12.png)
-1. OK. Time to test!  Click "Test your bot" in the bottom left corner, then "start over with latest conent"
+1. OK. Time to test!  Click "Test your bot" in the bottom left corner, then "start over with latest content"
     ![Open Browser](./images/EB14.png)
 1. Type in "what is your name", Hit enter or click Send
     ![Open Browser](./images/EB16.png)
