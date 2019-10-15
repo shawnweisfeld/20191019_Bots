@@ -1,3 +1,9 @@
+---
+back: "../01-WhatIsABot"
+home: "../"
+next: "../03-BotSetup"
+---
+
 ## How do we setup an environment for a bot?
 
 1. Warmup

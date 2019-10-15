@@ -1,3 +1,9 @@
+---
+back: "../04-OOBExploration"
+home: "../"
+next: "../06-SimpleChoices"
+---
+
 ## How do I make my bot understand?
 
 1. Warmup

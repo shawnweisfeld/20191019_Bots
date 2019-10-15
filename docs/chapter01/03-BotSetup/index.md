@@ -1,3 +1,9 @@
+---
+back: "../02-EnvironmentSetup"
+home: "../"
+next: "../04-OOBExploration"
+---
+
 ## How do we setup a bot?
 
 1. Warmup

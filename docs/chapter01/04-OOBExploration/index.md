@@ -1,3 +1,9 @@
+---
+back: "../03-BotSetup"
+home: "../"
+next: "../05-ExtendBot"
+---
+
 1. Warmup
      - Review Vocabulary
      - New vocabulary

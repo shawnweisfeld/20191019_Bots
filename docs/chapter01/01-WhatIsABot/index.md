@@ -1,3 +1,8 @@
+---
+home: "../"
+next: "../02-EnvironmentSetup"
+---
+
 ## What is a bot?
 
 1. Warmup
