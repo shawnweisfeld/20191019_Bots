@@ -7,12 +7,14 @@ next: "../05-ExtendBot"
 ## Hello Bot
 
 1. Turn Tracing Off. Check the tracing switch to make sure it is disabled. 
+   
      ![Tracing Off](./images/TracingOff.png)
-1. Create a new chat session with your bot by clicking the "Start over with latest content" at the top of the bot emulator. 
-1. Type "Hi" in the bot
-1. Hit enter or click the send button
-1. The bot responds with a number of messages.
-1. Take a few minutes to explore what happens when you have a conversation with your bot. 
+
+2. Create a new chat session with your bot by clicking the "Start over with latest content" at the top of the bot emulator. 
+3. Type "Hi" in the bot
+4. Hit enter or click the send button
+5. The bot responds with a number of messages.
+6. Take a few minutes to explore what happens when you have a conversation with your bot. 
 
 ## What happened
 
@@ -20,7 +22,9 @@ What happened when we were interacting with our bot. Let's look at the code that
 
 1. Create a new chat session with your bot by clicking the "Start over with latest content" at the top of the bot emulator. 
 1. Turn Tracing on. Check the tracing switch to make sure it is enabled. 
+
      ![Tracing ON](./images/TracingOn.png)
+
 1. Type "Hi" in the bot
 1. Hit enter or click the send button
 1. The bot responds with a number of messages.
