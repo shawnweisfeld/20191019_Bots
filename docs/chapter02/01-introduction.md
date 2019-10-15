@@ -6,6 +6,8 @@ next: "./02-buildit.html"
 ## Unit 4 - Bots - Chapter 2 Implement your bot
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6iClgRjmTvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Introduction:
 
 "Mad Libs is a phrasal template word game where one player prompts others for a list of words to substitute for blanks in a story, before reading the – often comical or nonsensical – story aloud." 
