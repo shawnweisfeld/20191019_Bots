@@ -34,3 +34,6 @@ Using the above example the conversation would flow something like this. However
 
 
 Lets see an example of a bot that does this!
+
+
+![Parts of Speech](./img/parts-of-speech.jpg)
