@@ -7,7 +7,7 @@ next: "../04-OOBExploration"
 ## Let's set up a bot in your environment
 
 
-Using the same "InPrivate" browser from the last exercise, Navigate to http://aka.ms/virtual-agent
+Using the same "InPrivate" browser from the last exercise, Navigate to [http://aka.ms/virtual-agent](http://aka.ms/virtual-agent)
 
 ![Open Browser](./images/BS02.png) 
 

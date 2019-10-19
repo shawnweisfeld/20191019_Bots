@@ -10,7 +10,7 @@ Open Internet Browser (InPrivate mode recommended)
 
 ![Open Browser](./images/ES01.png) 
 
-Navigate to https://powerapps.microsoft.com/en-us/communityplan/
+Navigate to [https://powerapps.microsoft.com/en-us/communityplan/](https://powerapps.microsoft.com/en-us/communityplan/)
 
 ![Open Browser](./images/ES02.png)
 
