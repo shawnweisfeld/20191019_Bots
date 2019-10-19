@@ -4,7 +4,7 @@ home: "../"
 next: "../05-ExtendBot"
 ---
 
-## Hello Bot
+## What can my bot do?
 
 1. Turn Tracing Off. Check the tracing switch to make sure it is disabled. 
    
